@@ -1,2 +1,2 @@
 # PreyNet
-Code repository for the paper entilted "PreyNet: Preying on Camouflaged Objects" accepted at ACM MM2022.
+This is the official implementaion of ACMMM 2022 paper "PreyNet: Preying on Camouflaged Objects".
