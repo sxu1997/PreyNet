@@ -1,0 +1,10 @@
+import torch
+a = torch.randn(1,3,2,2)
+print(a)
+b = torch.mean(a, dim=1, keepdim=True)
+print(b)
+print(b.shape)
+c, _ = torch.max(a, dim=1, keepdim=True)
+print(c)
+d = torch.cat((b, c), dim=1)
+print(d)
