@@ -10,3 +10,5 @@ Supp: results on NC4K: https://pan.baidu.com/s/1aDoI3HZMBg-X1P7PdIN_ug (Code: j
 
 trained model: https://pan.baidu.com/s/1M5whFF6fOZ5g3qO3A8P3Kw (Code: iyrv)
 
+Any questions can concat me by email sxu1997@126.com
+
